@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Li Qing
+image: images/1.png
 role: pi
-affiliation: University of Colorado
+affiliation: BIGAI
 aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://janesmith.com
+  home-page: https://liqing.io/
   orcid: 0000-0001-8713-9213
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I am a research scientist and team lead at Beijing Institute for General Artificial Intelligence (BIGAI), China. I received my Ph.D. in 2022 from Department of Statistics at University of California, Los Angeles (UCLA), advised by Professor Song-Chun Zhu. During my Ph.D., I have interned at Google Research, Microsoft Azure AI and Amazon Alexa. Before UCLA, I obtained my degrees of Bachelor in 2015 and Master in 2018 from University of Science and Technology of China (USTC).
