@@ -1,5 +1,5 @@
 ---
-name: Luo Lirui
+name: Lirui Luo
 image: images/3.jpg
 role: phd
 group: alum

@@ -1,5 +1,5 @@
 ---
-name: Li Qing
+name: Qing Li
 image: images/1.png
 role: pi
 affiliation: BIGAI

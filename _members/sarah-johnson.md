@@ -1,5 +1,5 @@
 ---
-name: Zhang Guoxi
+name: Guoxi Zhang
 image: images/2.jpg
 description: Lead Programmer
 role: programmer
